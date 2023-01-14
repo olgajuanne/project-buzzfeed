@@ -72,3 +72,20 @@
   justify-content: center;
   align-items: center;
 }
+
+.quizz_results > a {
+  text-decoration: none;
+  font-family: Arial;
+  border: 1px solid #18ab29;
+  padding: 16px 31px;
+  width: 30%;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.quizz_results > a:hover {
+  background-color: #5cbf2a;
+}
